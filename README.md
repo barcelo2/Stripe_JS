@@ -12,9 +12,9 @@ Display menu and submenu in the navigation, adapted for small screen size device
 
 
 
-![Stripe](https://github.com/barcelo2/CocktailsJS/blob/main/Cocktails/Screenshot%202022-08-09%20at%2014.25.21.png)
+![Stripe](https://github.com/barcelo2/Stripe_JS/blob/main/Stripe_submenus/Screenshot%202022-08-17%20at%2016.37.14.png)
 
-![Stripe](https://github.com/barcelo2/CocktailsJS/blob/main/Cocktails/Screenshot%202022-08-09%20at%2014.25.51.png)
+![Stripe](https://github.com/barcelo2/Stripe_JS/blob/main/Stripe_submenus/Screenshot%202022-08-17%20at%2016.37.31.png)
 
 
 ## Built With
